@@ -1,0 +1,15 @@
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\bin\Debug\net6.0\Dom W2 task 13.exe
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\bin\Debug\net6.0\Dom W2 task 13.deps.json
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\bin\Debug\net6.0\Dom W2 task 13.runtimeconfig.json
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\bin\Debug\net6.0\Dom W2 task 13.dll
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\bin\Debug\net6.0\Dom W2 task 13.pdb
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\obj\Debug\net6.0\Dom W2 task 13.csproj.AssemblyReference.cache
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\obj\Debug\net6.0\Dom W2 task 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\obj\Debug\net6.0\Dom W2 task 13.AssemblyInfoInputs.cache
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\obj\Debug\net6.0\Dom W2 task 13.AssemblyInfo.cs
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\obj\Debug\net6.0\Dom W2 task 13.csproj.CoreCompileInputs.cache
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\obj\Debug\net6.0\Dom W2 task 13.dll
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\obj\Debug\net6.0\refint\Dom W2 task 13.dll
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\obj\Debug\net6.0\Dom W2 task 13.pdb
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\obj\Debug\net6.0\Dom W2 task 13.genruntimeconfig.cache
+C:\Users\Maks-\ДОМАШКА C#\Dom W2 task 13\obj\Debug\net6.0\ref\Dom W2 task 13.dll
